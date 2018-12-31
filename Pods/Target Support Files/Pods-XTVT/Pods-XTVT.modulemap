@@ -1,0 +1,6 @@
+framework module Pods_XTVT {
+  umbrella header "Pods-XTVT-umbrella.h"
+
+  export *
+  module * { export * }
+}
